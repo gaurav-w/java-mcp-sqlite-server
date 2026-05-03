@@ -38,3 +38,5 @@ build/
 *.db
 *.sqlite
 *.sqlite3
+deps.txt
+effective-pom
